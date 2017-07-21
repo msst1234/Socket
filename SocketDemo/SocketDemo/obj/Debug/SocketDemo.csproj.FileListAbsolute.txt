@@ -1,0 +1,12 @@
+c:\users\shuai ma\documents\visual studio 2015\Projects\SocketDemo\SocketDemo\bin\Debug\SocketDemo.exe.config
+c:\users\shuai ma\documents\visual studio 2015\Projects\SocketDemo\SocketDemo\bin\Debug\SocketDemo.exe
+c:\users\shuai ma\documents\visual studio 2015\Projects\SocketDemo\SocketDemo\bin\Debug\SocketDemo.pdb
+c:\users\shuai ma\documents\visual studio 2015\Projects\SocketDemo\SocketDemo\obj\Debug\SocketDemo.Form1.resources
+c:\users\shuai ma\documents\visual studio 2015\Projects\SocketDemo\SocketDemo\obj\Debug\SocketDemo.Properties.Resources.resources
+c:\users\shuai ma\documents\visual studio 2015\Projects\SocketDemo\SocketDemo\obj\Debug\SocketDemo.csproj.GenerateResource.Cache
+c:\users\shuai ma\documents\visual studio 2015\Projects\SocketDemo\SocketDemo\obj\Debug\SocketDemo.exe
+c:\users\shuai ma\documents\visual studio 2015\Projects\SocketDemo\SocketDemo\obj\Debug\SocketDemo.pdb
+c:\users\shuai ma\documents\visual studio 2015\Projects\SocketDemo\SocketDemo\obj\Debug\SocketDemo.csprojResolveAssemblyReference.cache
+C:\Users\Shuai Ma\Desktop\通信模块\新版\SocketDemo\SocketDemo\bin\Debug\SocketDemo.exe.config
+C:\Users\Shuai Ma\Desktop\通信模块\新版\SocketDemo\SocketDemo\obj\Debug\SocketDemo.exe
+C:\Users\Shuai Ma\Desktop\通信模块\新版\SocketDemo\SocketDemo\obj\Debug\SocketDemo.pdb
